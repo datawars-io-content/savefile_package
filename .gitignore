@@ -40,7 +40,6 @@ venv/
 
 # Ignore packaging files
 setup.cfg
-pyproject.toml
 
 # Ignore editor & IDE files
 .vscode/
