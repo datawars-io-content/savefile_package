@@ -1,0 +1,51 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+.venv/
+venv/
+Pipfile
+Pipfile.lock
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore compiled Cython files
+*.cpp
+*.c
+*.o
+
+# Ignore logs and debug files
+*.log
+logs/
+
+# Ignore distribution packages (created by `python setup.py sdist bdist_wheel`)
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Ignore virtual environment folders
+env/
+.venv/
+venv/
+
+# Ignore packaging files
+setup.cfg
+pyproject.toml
+
+# Ignore editor & IDE files
+.vscode/
+.idea/
+*.iml
+*.ipynb
+
+/build
