@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+savefile/__init__.py
+savefile/saver.py
+savefile.egg-info/PKG-INFO
+savefile.egg-info/SOURCES.txt
+savefile.egg-info/dependency_links.txt
+savefile.egg-info/requires.txt
+savefile.egg-info/top_level.txt
