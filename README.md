@@ -10,7 +10,8 @@
 First, clone the repository then install the package using `pip`:
 
 ```sh
-cd savefile
+git clone https://github.com/datawars-io-content/savefile_package.git
+cd savefile_package
 pip install .
 ```
 
